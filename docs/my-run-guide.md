@@ -1,0 +1,1 @@
+This demo initializes a library simulation on a fixed date (2026-09-01), checks student and faculty loan limits, demonstrates searching for a book, executes a sample book borrowing and return lifecycle, and prints out the transaction details and fees.
